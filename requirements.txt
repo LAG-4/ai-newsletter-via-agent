@@ -1,0 +1,7 @@
+agno
+groq
+dotenv
+duckduckgo-search
+PyGithub
+httpx
+google-genai
