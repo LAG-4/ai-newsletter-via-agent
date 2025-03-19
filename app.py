@@ -6,7 +6,7 @@ from agno.models.google import Gemini
 from agno.tools.duckduckgo import DuckDuckGoTools
 from textwrap import dedent
 from datetime import datetime
-from agno.utils.pprint import pprint_run_response
+from agno.tools.telegram import TelegramTools
 
 
 load_dotenv()
